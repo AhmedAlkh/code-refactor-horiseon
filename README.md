@@ -32,3 +32,4 @@ Modifying HTML code
 2. Changed the year 2019 to 2021 in line 102.
 
 WEBPAGE UNDER CONSTRUCTION, HTML MODIFIED. CSS NOT ADJUSTED TO ACCOMODATE CHANGES YET.
+Added comments to organize different sections of code in the HTML file.
