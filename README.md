@@ -1,35 +1,29 @@
 # code-refactor-horiseon
 HTML CSS Git Challenge: Code Refactor
 
-Modifying HTML code
+Modifying CSS code
 
-<!-- Head section -->
+1. Adding comments to organize different sections.
 
-1. <title></title> changed from "website" to "Horiseon - Online Buisness Developement".
+2. Adjusting code the match changes to HTML. EX. <div> to <nav>
 
-<!-- Header/Navigation-->
+3. Moving selectors that are out of place into correct sections. 
 
-1. Changed <div class="header"> to <header>.
+EX. Moved 
 
-2. Changed <div> to <nav>.
+p {
+    font-size: 16px;
+}
 
-3. Fixed "Search Engine Optimization" navigation link by adding "id" to the related portion in the content section.
+into content section
 
-<!-- Content section -->
 
-1. Added alt attributes to images.
+4. Compressing code by removing duplicates. (Keep it DRY).
 
-<!-- Benefits section -->
+ADDITIONAL HTML CHANGES
 
-1. Deleted unessescary </img> for cost management line 88.
+1. Changed classes in content section to all be class="content-section"
 
-2. Added alt attributes to images.
+2. Changed classes in benefits section to all be class="benefits-section"
 
-<!-- Footer -->
-
-1. Changed <div class="footer"> to <footer>.
-
-2. Changed the year 2019 to 2021 in line 102.
-
-WEBPAGE UNDER CONSTRUCTION, HTML MODIFIED. CSS NOT ADJUSTED TO ACCOMODATE CHANGES YET.
-Added comments to organize different sections of code in the HTML file.
+3. Added </br> in benefits section to space out text and make the boxes appear flush on the webpage.
