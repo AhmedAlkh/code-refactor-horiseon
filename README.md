@@ -4,7 +4,7 @@ HTML CSS Git Challenge: Code Refactor
 Objective
 Refactor an existing site to make it more accessible and optimized for search engines.
 
-!screenshot(https://github.com/AhmedAlkh/code-refactor-horiseon/blob/main/Horiseon - Onlin.png.raw=true)
+!screenshot(https://github.com/AhmedAlkh/code-refactor-horiseon/blob/main/Horiseon - Onlin.png?raw=true)
 
 Step 1: Modify HTML
 
